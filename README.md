@@ -20,9 +20,20 @@ touch requirements.txt
 ```
 add required libraries to requirements.txt
 ```
-```
 pip install -r requirements.txt
 ```
 ```
 dvc init
 ```
+```
+touch dvc.yaml
+```
+update dvc.yaml file
+```
+dvc repro
+```
+```
+dvc dag
+```
+
+
