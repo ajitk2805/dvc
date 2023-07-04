@@ -19,3 +19,10 @@ add steps to README.md
 touch requirements.txt
 ```
 add required libraries to requirements.txt
+```
+```
+pip install -r requirements.txt
+```
+```
+dvc init
+```
