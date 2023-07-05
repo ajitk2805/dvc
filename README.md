@@ -35,5 +35,21 @@ dvc repro
 ```
 dvc dag
 ```
+```
+dvc add <filename>
+```
+```
+git add <filename> && git commit -m "message"
+```
+```
+dvc remote add -d myremote <any remote location>
+```
+```
+dvc push
+```
+```
+dvc pull
+```
+dvc documentation https://dvc.org/doc 
 
 
